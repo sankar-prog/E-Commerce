@@ -1,8 +1,4 @@
-![ultimatehub vercel app](https://github.com/user-attachments/assets/89826640-2643-4a46-aee1-5ce3a81d3917)
 
-Hello, I am Sumeet Kumar Paul and here is Sports Items Ecommerce Store, so let's get started.
-
-Watch the video to learn about all the features of this project: [video/ultimatehub](https://drive.google.com/file/d/1DctLQ86EHMqI-swHYGsF6GfNSeUO2htt/view?usp=sharing)
 
 ## Getting Started
 
